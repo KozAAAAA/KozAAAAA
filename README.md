@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hello.gif" alt="hello"/>
+  <img src="hi.gif" alt="hi"/>
 </p>
 
 - 🌱 I’m currently learning convolutional neural networks
