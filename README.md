@@ -1,4 +1,6 @@
-### Hi there, I'm Matthew 👋
+<p align="center">
+  <img src="hello.gif" alt="hello"/>
+</p>
 
 - 🌱 I’m currently learning convolutional neural networks
 - 📫 How to reach me: mateusz-koza@outlook.com
