@@ -2,7 +2,7 @@
   <img src="hi.gif" alt="hi"/>
 </p>
 
-- 🌱 I’m currently learning anything related to self-driving cars
+- 🌱 I’m currently learning MLOps
 - 📫 How to reach me: mateusz-koza@outlook.com
 
 <!--
